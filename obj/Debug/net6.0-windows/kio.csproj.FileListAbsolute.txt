@@ -1,0 +1,111 @@
+C:\CPP\kio\kio\bin\Debug\net6.0-windows\kio.exe
+C:\CPP\kio\kio\bin\Debug\net6.0-windows\kio.deps.json
+C:\CPP\kio\kio\bin\Debug\net6.0-windows\kio.runtimeconfig.json
+C:\CPP\kio\kio\bin\Debug\net6.0-windows\kio.dll
+C:\CPP\kio\kio\bin\Debug\net6.0-windows\kio.pdb
+C:\CPP\kio\kio\obj\Debug\net6.0-windows\kio.Form1.resources
+C:\CPP\kio\kio\obj\Debug\net6.0-windows\kio.menu.resources
+C:\CPP\kio\kio\obj\Debug\net6.0-windows\kio.Properties.Resources.resources
+C:\CPP\kio\kio\obj\Debug\net6.0-windows\kio.csproj.GenerateResource.cache
+C:\CPP\kio\kio\obj\Debug\net6.0-windows\kio.GeneratedMSBuildEditorConfig.editorconfig
+C:\CPP\kio\kio\obj\Debug\net6.0-windows\kio.AssemblyInfoInputs.cache
+C:\CPP\kio\kio\obj\Debug\net6.0-windows\kio.AssemblyInfo.cs
+C:\CPP\kio\kio\obj\Debug\net6.0-windows\kio.csproj.CoreCompileInputs.cache
+C:\CPP\kio\kio\obj\Debug\net6.0-windows\kio.dll
+C:\CPP\kio\kio\obj\Debug\net6.0-windows\refint\kio.dll
+C:\CPP\kio\kio\obj\Debug\net6.0-windows\kio.pdb
+C:\CPP\kio\kio\obj\Debug\net6.0-windows\kio.genruntimeconfig.cache
+C:\CPP\kio\kio\obj\Debug\net6.0-windows\ref\kio.dll
+C:\CPP\kio\kio\obj\Debug\net6.0-windows\kio.PaymentForm.resources
+C:\키오스크 미션\kio\kio\bin\Debug\net6.0-windows\kio.exe
+C:\키오스크 미션\kio\kio\bin\Debug\net6.0-windows\kio.deps.json
+C:\키오스크 미션\kio\kio\bin\Debug\net6.0-windows\kio.runtimeconfig.json
+C:\키오스크 미션\kio\kio\bin\Debug\net6.0-windows\kio.dll
+C:\키오스크 미션\kio\kio\bin\Debug\net6.0-windows\kio.pdb
+C:\키오스크 미션\kio\kio\obj\Debug\net6.0-windows\kio.Form1.resources
+C:\키오스크 미션\kio\kio\obj\Debug\net6.0-windows\kio.menu.resources
+C:\키오스크 미션\kio\kio\obj\Debug\net6.0-windows\kio.PaymentForm.resources
+C:\키오스크 미션\kio\kio\obj\Debug\net6.0-windows\kio.Properties.Resources.resources
+C:\키오스크 미션\kio\kio\obj\Debug\net6.0-windows\kio.csproj.GenerateResource.cache
+C:\키오스크 미션\kio\kio\obj\Debug\net6.0-windows\kio.GeneratedMSBuildEditorConfig.editorconfig
+C:\키오스크 미션\kio\kio\obj\Debug\net6.0-windows\kio.AssemblyInfoInputs.cache
+C:\키오스크 미션\kio\kio\obj\Debug\net6.0-windows\kio.AssemblyInfo.cs
+C:\키오스크 미션\kio\kio\obj\Debug\net6.0-windows\kio.csproj.CoreCompileInputs.cache
+C:\키오스크 미션\kio\kio\obj\Debug\net6.0-windows\kio.dll
+C:\키오스크 미션\kio\kio\obj\Debug\net6.0-windows\refint\kio.dll
+C:\키오스크 미션\kio\kio\obj\Debug\net6.0-windows\kio.pdb
+C:\키오스크 미션\kio\kio\obj\Debug\net6.0-windows\kio.genruntimeconfig.cache
+C:\키오스크 미션\kio\kio\obj\Debug\net6.0-windows\ref\kio.dll
+C:\키오스크 미션\kio\kio\obj\Debug\net6.0-windows\kio.Loding1.resources
+C:\키오스크 미션\kio\kio\obj\Debug\net6.0-windows\kio.Loding2.resources
+C:\키오스크 미션\kio\kio\obj\Debug\net6.0-windows\kio.Finish.resources
+C:\키오스크 미션\kio\kio\obj\Debug\net6.0-windows\kio.Loding3.resources
+C:\정서현 키오스크 미션\kio\kio\bin\Debug\net6.0-windows\kio.exe
+C:\정서현 키오스크 미션\kio\kio\bin\Debug\net6.0-windows\kio.deps.json
+C:\정서현 키오스크 미션\kio\kio\bin\Debug\net6.0-windows\kio.runtimeconfig.json
+C:\정서현 키오스크 미션\kio\kio\bin\Debug\net6.0-windows\kio.dll
+C:\정서현 키오스크 미션\kio\kio\bin\Debug\net6.0-windows\kio.pdb
+C:\정서현 키오스크 미션\kio\kio\obj\Debug\net6.0-windows\kio.Finish.resources
+C:\정서현 키오스크 미션\kio\kio\obj\Debug\net6.0-windows\kio.Form1.resources
+C:\정서현 키오스크 미션\kio\kio\obj\Debug\net6.0-windows\kio.Loding1.resources
+C:\정서현 키오스크 미션\kio\kio\obj\Debug\net6.0-windows\kio.Loding2.resources
+C:\정서현 키오스크 미션\kio\kio\obj\Debug\net6.0-windows\kio.Loding3.resources
+C:\정서현 키오스크 미션\kio\kio\obj\Debug\net6.0-windows\kio.menu.resources
+C:\정서현 키오스크 미션\kio\kio\obj\Debug\net6.0-windows\kio.PaymentForm.resources
+C:\정서현 키오스크 미션\kio\kio\obj\Debug\net6.0-windows\kio.Properties.Resources.resources
+C:\정서현 키오스크 미션\kio\kio\obj\Debug\net6.0-windows\kio.csproj.GenerateResource.cache
+C:\정서현 키오스크 미션\kio\kio\obj\Debug\net6.0-windows\kio.GeneratedMSBuildEditorConfig.editorconfig
+C:\정서현 키오스크 미션\kio\kio\obj\Debug\net6.0-windows\kio.AssemblyInfoInputs.cache
+C:\정서현 키오스크 미션\kio\kio\obj\Debug\net6.0-windows\kio.AssemblyInfo.cs
+C:\정서현 키오스크 미션\kio\kio\obj\Debug\net6.0-windows\kio.csproj.CoreCompileInputs.cache
+C:\정서현 키오스크 미션\kio\kio\obj\Debug\net6.0-windows\kio.dll
+C:\정서현 키오스크 미션\kio\kio\obj\Debug\net6.0-windows\refint\kio.dll
+C:\정서현 키오스크 미션\kio\kio\obj\Debug\net6.0-windows\kio.pdb
+C:\정서현 키오스크 미션\kio\kio\obj\Debug\net6.0-windows\kio.genruntimeconfig.cache
+C:\정서현 키오스크 미션\kio\kio\obj\Debug\net6.0-windows\ref\kio.dll
+C:\키오스크 수정\kio\kio\bin\Debug\net6.0-windows\kio.exe
+C:\키오스크 수정\kio\kio\bin\Debug\net6.0-windows\kio.deps.json
+C:\키오스크 수정\kio\kio\bin\Debug\net6.0-windows\kio.runtimeconfig.json
+C:\키오스크 수정\kio\kio\bin\Debug\net6.0-windows\kio.dll
+C:\키오스크 수정\kio\kio\bin\Debug\net6.0-windows\kio.pdb
+C:\키오스크 수정\kio\kio\obj\Debug\net6.0-windows\kio.Finish.resources
+C:\키오스크 수정\kio\kio\obj\Debug\net6.0-windows\kio.Form1.resources
+C:\키오스크 수정\kio\kio\obj\Debug\net6.0-windows\kio.Loding1.resources
+C:\키오스크 수정\kio\kio\obj\Debug\net6.0-windows\kio.Loding2.resources
+C:\키오스크 수정\kio\kio\obj\Debug\net6.0-windows\kio.Loding3.resources
+C:\키오스크 수정\kio\kio\obj\Debug\net6.0-windows\kio.menu.resources
+C:\키오스크 수정\kio\kio\obj\Debug\net6.0-windows\kio.PaymentForm.resources
+C:\키오스크 수정\kio\kio\obj\Debug\net6.0-windows\kio.Properties.Resources.resources
+C:\키오스크 수정\kio\kio\obj\Debug\net6.0-windows\kio.csproj.GenerateResource.cache
+C:\키오스크 수정\kio\kio\obj\Debug\net6.0-windows\kio.GeneratedMSBuildEditorConfig.editorconfig
+C:\키오스크 수정\kio\kio\obj\Debug\net6.0-windows\kio.AssemblyInfoInputs.cache
+C:\키오스크 수정\kio\kio\obj\Debug\net6.0-windows\kio.AssemblyInfo.cs
+C:\키오스크 수정\kio\kio\obj\Debug\net6.0-windows\kio.csproj.CoreCompileInputs.cache
+C:\키오스크 수정\kio\kio\obj\Debug\net6.0-windows\kio.dll
+C:\키오스크 수정\kio\kio\obj\Debug\net6.0-windows\refint\kio.dll
+C:\키오스크 수정\kio\kio\obj\Debug\net6.0-windows\kio.pdb
+C:\키오스크 수정\kio\kio\obj\Debug\net6.0-windows\kio.genruntimeconfig.cache
+C:\키오스크 수정\kio\kio\obj\Debug\net6.0-windows\ref\kio.dll
+C:\Users\SH\Desktop\모블2기\키오스크 수정버전\kio\kio\bin\Debug\net6.0-windows\kio.exe
+C:\Users\SH\Desktop\모블2기\키오스크 수정버전\kio\kio\bin\Debug\net6.0-windows\kio.deps.json
+C:\Users\SH\Desktop\모블2기\키오스크 수정버전\kio\kio\bin\Debug\net6.0-windows\kio.runtimeconfig.json
+C:\Users\SH\Desktop\모블2기\키오스크 수정버전\kio\kio\bin\Debug\net6.0-windows\kio.dll
+C:\Users\SH\Desktop\모블2기\키오스크 수정버전\kio\kio\bin\Debug\net6.0-windows\kio.pdb
+C:\Users\SH\Desktop\모블2기\키오스크 수정버전\kio\kio\obj\Debug\net6.0-windows\kio.Finish.resources
+C:\Users\SH\Desktop\모블2기\키오스크 수정버전\kio\kio\obj\Debug\net6.0-windows\kio.Form1.resources
+C:\Users\SH\Desktop\모블2기\키오스크 수정버전\kio\kio\obj\Debug\net6.0-windows\kio.Loding1.resources
+C:\Users\SH\Desktop\모블2기\키오스크 수정버전\kio\kio\obj\Debug\net6.0-windows\kio.Loding2.resources
+C:\Users\SH\Desktop\모블2기\키오스크 수정버전\kio\kio\obj\Debug\net6.0-windows\kio.Loding3.resources
+C:\Users\SH\Desktop\모블2기\키오스크 수정버전\kio\kio\obj\Debug\net6.0-windows\kio.menu.resources
+C:\Users\SH\Desktop\모블2기\키오스크 수정버전\kio\kio\obj\Debug\net6.0-windows\kio.PaymentForm.resources
+C:\Users\SH\Desktop\모블2기\키오스크 수정버전\kio\kio\obj\Debug\net6.0-windows\kio.Properties.Resources.resources
+C:\Users\SH\Desktop\모블2기\키오스크 수정버전\kio\kio\obj\Debug\net6.0-windows\kio.csproj.GenerateResource.cache
+C:\Users\SH\Desktop\모블2기\키오스크 수정버전\kio\kio\obj\Debug\net6.0-windows\kio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SH\Desktop\모블2기\키오스크 수정버전\kio\kio\obj\Debug\net6.0-windows\kio.AssemblyInfoInputs.cache
+C:\Users\SH\Desktop\모블2기\키오스크 수정버전\kio\kio\obj\Debug\net6.0-windows\kio.AssemblyInfo.cs
+C:\Users\SH\Desktop\모블2기\키오스크 수정버전\kio\kio\obj\Debug\net6.0-windows\kio.csproj.CoreCompileInputs.cache
+C:\Users\SH\Desktop\모블2기\키오스크 수정버전\kio\kio\obj\Debug\net6.0-windows\kio.dll
+C:\Users\SH\Desktop\모블2기\키오스크 수정버전\kio\kio\obj\Debug\net6.0-windows\refint\kio.dll
+C:\Users\SH\Desktop\모블2기\키오스크 수정버전\kio\kio\obj\Debug\net6.0-windows\kio.pdb
+C:\Users\SH\Desktop\모블2기\키오스크 수정버전\kio\kio\obj\Debug\net6.0-windows\kio.genruntimeconfig.cache
+C:\Users\SH\Desktop\모블2기\키오스크 수정버전\kio\kio\obj\Debug\net6.0-windows\ref\kio.dll
