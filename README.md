@@ -26,33 +26,39 @@
 | 대상 OS | Windows |
 
 ### 📂 프로젝트 구조
+
+```text
 kio/
-├── Program.cs              # 앱 진입점 (Form1 시작)
-├── Form1.cs                # 시작 화면 (입장 버튼)
-├── Loding1.cs              # 로딩 화면 (2초 후 메뉴로 이동)
-├── menu.cs                 # 메뉴 주문 화면 (100초 타이머)
-├── PaymentForm.cs          # 결제 화면 (100초 타이머)
-├── Finish.cs               # 결제 완료 화면 (5초 후 종료)
-└── *_Designer.cs           # Visual Studio 자동 생성 디자이너 파일
-Studio 자동 생성 디자이너 파일
+├── Program.cs          # 앱 진입점 (Form1 시작)
+├── Form1.cs            # 시작 화면 (입장 버튼)
+├── Loading1.cs         # 로딩 화면 (2초 후 메뉴로 이동)
+├── menu.cs             # 메뉴 주문 화면 (100초 타이머)
+├── PaymentForm.cs      # 결제 화면 (100초 타이머)
+├── Finish.cs           # 결제 완료 화면 (5초 후 종료)
+└── *_Designer.cs       # Visual Studio 자동 생성 디자이너 파일
+```
 
 ### 🔄 화면 흐름 (Flow)
+
+```text
 [Form1: 시작 화면]
-       ↓ 입장 버튼 클릭
-[Loding1: 로딩 (2초)]
-       ↓ 자동 전환
+      ↓ 입장 버튼 클릭
+[Loading1: 로딩 (2초)]
+      ↓ 자동 전환
 [menu: 메뉴 선택 (최대 100초)]
-       ↓ 결제 버튼 클릭
-[Loding2: 로딩]
-       ↓ 자동 전환
+      ↓ 결제 버튼 클릭
+[Loading2: 로딩]
+      ↓ 자동 전환
 [PaymentForm: 결제 (최대 100초)]
-       ↓ 결제 완료
-[Loding3: 로딩]
-       ↓ 자동 전환
+      ↓ 결제 완료
+[Loading3: 로딩]
+      ↓ 자동 전환
 [Finish: 완료 화면 (5초)]
-       ↓ 자동 종료
+      ↓ 자동 종료
 
 ※ 타이머 초과 시 → Form1(시작 화면)으로 자동 복귀
+```
+
 
 ### ✨ 주요 기능
 🏠 시작 화면 (Form1)
