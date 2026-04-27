@@ -112,4 +112,4 @@ kio/
 5초 후 자동으로 화면 닫힘
 
 ### 시연 영상
-https://youtu.be/jq0BmiaZlmg
+https://youtu.be/bovPFlWYfpY
